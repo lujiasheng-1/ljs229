@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a7421e37-8a2c-45b1-85d4-31f58cea1b75" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>UserDetailsService</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="E:/apache-maven-3.5.0" />
+        <option name="userSettingsFile" value="E:\apache-maven-3.5.0\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XQ9qXRkBjJxgI115glfSTtkeoM" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelOrder2" value="2" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RequestMappingsPanelWidth2" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1580874598362" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../2.3日/01/auth2.server" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\年后微服上课代码\auth2.server\src\main\resources" />
+      <recent name="F:\auth2.server\src\main\java\com\zb" />
+      <recent name="F:\wf03\auth2.server\src\main\java\com\zb\service" />
+      <recent name="F:\wf03\auth2.server\src\main\java\com\zb" />
+      <recent name="F:\wf03\auth2.server\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.UcenterAuthApplication">
+    <configuration name="TestClient.getJwtUserData" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="auth2.server" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zb.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.zb" />
+      <option name="MAIN_CLASS_NAME" value="com.zb.TestClient" />
+      <option name="METHOD_NAME" value="getJwtUserData" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestClient.testClient" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="auth2.server" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zb.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.zb" />
+      <option name="MAIN_CLASS_NAME" value="com.zb.TestClient" />
+      <option name="METHOD_NAME" value="testClient" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestClient.testJWT" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="auth2.server" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zb.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.zb" />
+      <option name="MAIN_CLASS_NAME" value="com.zb.TestClient" />
+      <option name="METHOD_NAME" value="testJWT" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestClient.testJwt" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="auth2.server" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zb.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.zb" />
+      <option name="MAIN_CLASS_NAME" value="com.zb.TestClient" />
+      <option name="METHOD_NAME" value="testJwt" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestClient.validateToken" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="auth2.server" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zb.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.zb" />
+      <option name="MAIN_CLASS_NAME" value="com.zb.TestClient" />
+      <option name="METHOD_NAME" value="validateToken" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UcenterAuthApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="auth2.server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.zb.UcenterAuthApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.TestClient.testClient" />
+      <item itemvalue="JUnit.TestClient.testJwt" />
+      <item itemvalue="JUnit.TestClient.validateToken" />
+      <item itemvalue="JUnit.TestClient.testJWT" />
+      <item itemvalue="JUnit.TestClient.getJwtUserData" />
+      <item itemvalue="Spring Boot.UcenterAuthApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TestClient.getJwtUserData" />
+        <item itemvalue="JUnit.TestClient.testJWT" />
+        <item itemvalue="JUnit.TestClient.validateToken" />
+        <item itemvalue="JUnit.TestClient.testJwt" />
+        <item itemvalue="JUnit.TestClient.testClient" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a7421e37-8a2c-45b1-85d4-31f58cea1b75" name="Default Changelist" comment="" />
+      <created>1579060231344</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579060231344</updated>
+      <workItem from="1579060235170" duration="3389000" />
+      <workItem from="1579315370040" duration="4477000" />
+      <workItem from="1580533862235" duration="47000" />
+      <workItem from="1580533959274" duration="3009000" />
+      <workItem from="1580615224137" duration="1530000" />
+      <workItem from="1580687596270" duration="5739000" />
+      <workItem from="1580698166440" duration="3696000" />
+      <workItem from="1580861946732" duration="10995000" />
+      <workItem from="1580967644767" duration="2856000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="TestClient_testClient - 2020.01.18 at 11h 25m 45s.xml">
+      <configuration name="TestClient.testClient" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestClient_testClient - 2020.01.18 at 11h 26m 18s.xml">
+      <configuration name="TestClient.testClient" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestClient_testClient - 2020.01.18 at 11h 28m 22s.xml">
+      <configuration name="TestClient.testClient" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestClient_testJwt - 2020.02.02 at 11h 58m 39s.xml">
+      <configuration name="TestClient.testJwt" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestClient_testJwt - 2020.02.02 at 11h 59m 26s.xml">
+      <configuration name="TestClient.testJwt" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestClient_validateToken - 2020.02.02 at 12h 02m 42s.xml">
+      <configuration name="TestClient.validateToken" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestClient_testJWT - 2020.02.05 at 09h 52m 57s.xml">
+      <configuration name="TestClient.testJWT" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestClient_testJWT - 2020.02.05 at 10h 00m 16s.xml">
+      <configuration name="TestClient.testJWT" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestClient_getJwtUserData - 2020.02.05 at 10h 00m 51s.xml">
+      <configuration name="TestClient.getJwtUserData" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestClient_getJwtUserData - 2020.02.05 at 10h 16m 42s.xml">
+      <configuration name="TestClient.getJwtUserData" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="164" y="170" key="FileChooserDialogImpl" timestamp="1580970522353">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="164" y="170" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1580970522353" />
+    <state width="1493" height="73" key="GridCell.Tab.0.bottom" timestamp="1580970523718">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="73" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1580970523718" />
+    <state width="1493" height="73" key="GridCell.Tab.0.center" timestamp="1580970523718">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="73" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1580970523718" />
+    <state width="1493" height="73" key="GridCell.Tab.0.left" timestamp="1580970523718">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="73" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1580970523718" />
+    <state width="1493" height="73" key="GridCell.Tab.0.right" timestamp="1580970523718">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="73" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1580970523718" />
+    <state x="320" y="0" key="SettingsEditor" timestamp="1580970210836">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="320" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1580970210836" />
+  </component>
+</project>
